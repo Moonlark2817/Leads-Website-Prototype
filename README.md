@@ -4,11 +4,11 @@ An interactive website for comparing LEADS classes and helping students identify
 
 ## About the Project
 
-I am developing this project while training to become a LEADS Ambassador at UNC Charlotte. The website will use an interactive Venn diagram to show:
+I am developing this project while training to become a LEADS Ambassador at UNC Charlotte. The website will use interactive Venn diagrams to show:
 
 - Activities that are unique to each LEADS class
 - Skills and experiences that multiple classes share
-- A class-matching form that helps students find an appropriate course
+- A class-matching form that helps students identify an appropriate course
 
 ## Project Goals
 
